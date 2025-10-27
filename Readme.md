@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<img src="res/logo.png" alt="Nabla logo" width="200"/>
-<img src="res/screen1.png" alt="Nabla screenshot" width="600"/>
+<img src="res/screen1.png" alt="Nabla screenshot" width="800"/>
 
 </div>
 
@@ -29,6 +28,6 @@ A resource-intensive text-based OS based on the Linux kernel.
 ### Linux Kernel
 
 This project uses the official Linux kernel. The source code can be found in the repository:
-[https://github.com/torvalds/linux](https://github.com/torvalds/linux)[citation:5]
+[https://github.com/torvalds/linux](https://github.com/torvalds/linux)
 
 </div>
